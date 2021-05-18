@@ -14,7 +14,7 @@
 
 **B-Tech**
 
-- College Name: __Mic College__<br>
+- College Name: __Mic College of Technology__<br>
 - Branch : Computer Science Engineering<br>
 - Year Of Study: 2018 - 2022<br>
 - Precentage : 89%<br>
@@ -58,6 +58,7 @@ I Want To Software Developer in `Python`
 - Strengths:
   - Hardwork
   - Logical thinking
+  - patience
 - Weaknesses:
   - Lazeyness
  
